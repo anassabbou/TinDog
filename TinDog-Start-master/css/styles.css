@@ -71,3 +71,28 @@ h3{
 .icon:hover{
     color: #ff4c68;
 }
+h2{
+    font-family: "Montserrat-Bold";
+    color: white;
+    size:6rem;
+}
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 60px;
+}
+.slideImage{
+    margin: 20px 5px;
+    width: 80px;
+    border-radius: 80%;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.sponsorImage{
+    size: 20px;
+}
